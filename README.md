@@ -2,9 +2,9 @@
 
 Clone the repro and run the build script
 
-``git clone https://github.com/sfduff/python_container.git newfolder
+``git clone https://github.com/sfduff/python_container.git newfolder``
 
-./build.sh``
+``./build.sh``
 
 To use it..
 

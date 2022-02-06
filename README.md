@@ -2,10 +2,10 @@
 
 Clone the repro and run the build script
 
-''git clone https://github.com/sfduff/python_container.git newfolder
+``git clone https://github.com/sfduff/python_container.git newfolder
 
-./build.sh''
+./build.sh``
 
 To use it..
 
-''docker run -ti --rm --name bazinga base_python_shell''
+``docker run -ti --rm --name bazinga base_python_shell``
